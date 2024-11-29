@@ -7,7 +7,7 @@ This 6-day workout plan follows an opposing muscle group approach. Below is the 
 - **Flat Bench Press (Chest) – 4 sets x 8–12 reps**
     <details>
         <summary>Click to expand!</summary>
-         ![Chest Flat Bench Press](../Images/Chest%20Flat%20Bench%20Press.jpg)
+         ![Chest Flat Bench Press](https://github.com/dafuture678/Workout/blob/9da3e761f1d544b6068ae67be8041c11f38db798/Images/Chest%20Flat%20Bench%20Press.jpg)
     </details>
 
 - **Lat Pulldown (Wide Grip) (Back) – 4 sets x 8–12 reps**
