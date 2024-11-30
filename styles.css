@@ -10,6 +10,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    text-align: center;
 }
 
 header {
@@ -74,14 +75,66 @@ nav {
     text-decoration: underline;
 }
 
+
+
+
+
 .exercise {
     margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.exercise-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.exercise-item {
+    background: #007BFF;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    transition: background 0.3s;
+}
+
+.exercise-item:hover {
+    background: #0056b3;
+}
+
+
+
+
+.details {
+    display: none;
+    margin-top: 10px;
 }
 
 .details {
     display: none;
     margin-top: 10px;
 }
+
+.details img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.details p {
+    margin: 10px 0 0;
+}
+
+
+
+
 
 button {
     margin-top: 10px;
