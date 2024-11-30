@@ -12,16 +12,32 @@ This 6-day workout plan follows an opposing muscle group approach. Below is the 
    </details>
 
 - **Lat Pulldown (Wide Grip) (Back) – 4 sets x 8–12 reps**
-  ![Exercise Image](https://via.placeholder.com/150?text=Image+Coming+Soon)
+  <details>
+    <summary>Click to expand!</summary>      
+    
+![Lat Pulldown (Wide Grip) (Back)](https://github.com/user-attachments/assets/d5a0ecbb-a8ae-4892-b20e-b8c9014ba114)
+   </details>
 
 - **Incline Dumbbell Press (Chest) – 3 sets x 10–12 reps**
-  ![Exercise Image](https://via.placeholder.com/150?text=Image+Coming+Soon)
+  <details>
+    <summary>Click to expand!</summary>      
+    
+  ![Chest Flat Bench Press](https://github.com/user-attachments/assets/4c7365c2-c5e4-405d-9f75-10453bf3902b)
+   </details>
 
 - **Bent Over Barbell Row (Back) – 3 sets x 10–12 reps**
-  ![Exercise Image](https://via.placeholder.com/150?text=Image+Coming+Soon)
+  <details>
+    <summary>Click to expand!</summary>      
+    
+  ![Chest Flat Bench Press](https://github.com/user-attachments/assets/4c7365c2-c5e4-405d-9f75-10453bf3902b)
+   </details>
 
 - **Incline Bench Dumbbell Fly (Chest) – 3 sets x 12–15 reps**
-  ![Exercise Image](https://via.placeholder.com/150?text=Image+Coming+Soon)
+   <details>
+    <summary>Click to expand!</summary>      
+    
+  ![Chest Flat Bench Press](https://github.com/user-attachments/assets/4c7365c2-c5e4-405d-9f75-10453bf3902b)
+   </details>
 
 - **Dumbbell Rows (Single Arm) (Back) – 3 sets x 12–15 reps each arm**
   ![Exercise Image](https://via.placeholder.com/150?text=Image+Coming+Soon)
