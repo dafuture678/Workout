@@ -22,7 +22,7 @@ This 6-day workout plan follows an opposing muscle group approach. Below is the 
   <details>
     <summary>Click to expand!</summary>      
     
-  ![Chest Flat Bench Press](https://github.com/user-attachments/assets/4c7365c2-c5e4-405d-9f75-10453bf3902b)
+    ![Chest Flat Bench Press](https://github.com/user-attachments/assets/4c7365c2-c5e4-405d-9f75-10453bf3902b)
    </details>
 
 - **Bent Over Barbell Row (Back) – 3 sets x 10–12 reps**
