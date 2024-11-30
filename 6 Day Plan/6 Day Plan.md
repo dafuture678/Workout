@@ -15,7 +15,7 @@ This 6-day workout plan follows an opposing muscle group approach. Below is the 
   <details>
     <summary>Click to expand!</summary>      
     
-![Lat Pulldown (Wide Grip) (Back)](https://github.com/user-attachments/assets/d5a0ecbb-a8ae-4892-b20e-b8c9014ba114)  
+  ![Lat Pulldown (Wide Grip) (Back)](https://github.com/user-attachments/assets/d5a0ecbb-a8ae-4892-b20e-b8c9014ba114) 
    </details>
 
 - **Incline Dumbbell Press (Chest) – 3 sets x 10–12 reps**
